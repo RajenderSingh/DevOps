@@ -1,14 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.demo.service.CounterTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.232 s <<< FAILURE! - in com.example.demo.service.CounterTest
-givenSleepBy100ms_whenGetInvocationCount_thenIsGreaterThanZero  Time elapsed: 1.07 s  <<< FAILURE!
-java.lang.AssertionError: 
-
-Expecting actual:
-  0
-to be greater than:
-  0
-
-	at com.example.demo.service.CounterTest.givenSleepBy100ms_whenGetInvocationCount_thenIsGreaterThanZero(CounterTest.java:22)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.289 s - in com.example.demo.service.CounterTest
