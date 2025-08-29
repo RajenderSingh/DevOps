@@ -1,1 +1,2 @@
-This is demo for git status command
+This is demo for git status command.
+Now I am authenticated.
